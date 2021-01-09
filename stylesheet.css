@@ -43,22 +43,6 @@ img, video, object {
   display: block;
 }
 
-#backToTop {
-  position: fixed;
-  z-index: 9999;
-  bottom: 25px;
-  right: 25px;
-}
-
-#backToTop a {
-  display: block;
-  text-decoration: none;
-  color: #fff;
-  padding: 15px;
-  font-weight: bold;
-
-  background-color: #47c79d;
-}
 
 /*--------------------------------
 　全体
