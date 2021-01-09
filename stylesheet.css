@@ -47,11 +47,11 @@ img, video, object {
 　header
 ---------------------------------*/
 
-#header {
+header {
   background-color: #ccc;
 }
 
-#header .logo a {
+header .logo a {
   color: #000;
   text-decoration: none;
 }
@@ -78,23 +78,23 @@ img, video, object {
   Footer
 ---------------------------------*/
 
-#footer {
+footer {
   background-color: #aaa;
 }
 
-#footer .inner {
+footer .inner {
   padding: 20px 10px;
 }
 
-#footer .footer-link a {
+footer .footer-link a {
   color: #fff;
 }
 
-#footer .copyright {
+footer .copyright {
   font-size: 12px;
 }
 
-#footer .copyright a {
+footer .copyright a {
   color: #333;
 }
 
