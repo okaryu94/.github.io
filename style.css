@@ -214,7 +214,7 @@ header div {
 /*メインビジュアル*/
 .mv {
   height: 100vh;
-  background: url("/img/main-visual2.jpg");
+  background: url("main-visual2.jpg");
 }
 
 .mv-btn {
@@ -404,7 +404,7 @@ header div {
 
 /*02 メニューセクション*/
 .section-dinner {
-  background: url("/img/chikin2.jpg");
+  background: url("chikin2.jpg");
   height: auto;
   -o-object-fit: cover;
      object-fit: cover;
@@ -434,7 +434,7 @@ header div {
 
 /*03 ランチセクション*/
 .section-lunch {
-  background: url("/img/salad.jpg");
+  background: url("salad.jpg");
   height: auto;
   -o-object-fit: cover;
      object-fit: cover;
@@ -464,7 +464,7 @@ header div {
 
 /*04 ドリンクセクション*/
 .section-drink {
-  background: url("/img/drink.jpg");
+  background: url("drink.jpg");
   height: auto;
   -o-object-fit: cover;
      object-fit: cover;
@@ -494,7 +494,7 @@ header div {
 
 /*05 フロアセクション*/
 .section-floor {
-  background: url("/img/shop3.jpg");
+  background: url("shop3.jpg");
   height: auto;
   -o-object-fit: cover;
      object-fit: cover;
